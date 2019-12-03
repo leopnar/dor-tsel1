@@ -151,11 +151,11 @@ session_start(); #list: key, msisdn, otp, secret_token
 <div class="wrap-contact100">
 <form class="contact100-form validate-form" method="POST">
 <span class="contact100-form-title">
-<marquee><font color="red">これはTelkomselショットあなたは使う下さい私はNizar :)</font></marquee>
+<marquee><font color="red">これはTelkomselショットあなたは使う下さい私はFumitoshi-taro :)</font></marquee>
 <h1>
 <br>
 <br>
-<font color="red">Tembak Telkomsel</font>
+<font color="red">ショット</font>
 <p>
 </h1>
 </span>
@@ -271,8 +271,8 @@ session_start(); #list: key, msisdn, otp, secret_token
   <option value="00016030"> Maxtream 10Gb 30 Days Rp.10rb,- </option>
   <option value="00016038"> Maxtream 5Gb  30 Days Rp.10rb,-</option>
 </select><br><br><br>
-<input type="submit" name="do" value="BUY_PKG" style="font-size:1em;background:green;color:white"> </input><br><br>
-<input type="submit" name="do" value="LOGOUT" style="font-size:1em;background:red;color:white"><br></input>
+<input type="submit" name="do" value="買うた" style="font-size:1em;background:green;color:white"> </input><br><br>
+<input type="submit" name="do" value="ログアウト" style="font-size:1em;background:red;color:white"><br></input>
 <br>
 <hr>
 </fieldset>
