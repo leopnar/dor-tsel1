@@ -151,7 +151,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <div class="wrap-contact100">
 <form class="contact100-form validate-form" method="POST">
 <span class="contact100-form-title">
-<marquee><font color="red">これはTelkomselショットあなたは使う下さい私はFumitoshi-taro :)</font></marquee>
+<marquee><font color="red">これはテセールショットあなたは使う下さい私はFumitoshi-taro :)</font></marquee>
 <h1>
 <br>
 <br>
