@@ -182,7 +182,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <i class="fa fa-paper-plane-o m-r-6" aria-hidden="true"></i>
 <p>
 <h5>
-<input type="button" value="REQ OTP" style="font-size:1em;background:green;color:white"><br></input>
+<input type="button" value="KEYレクエースト" style="font-size:1em;background:green;color:white"><br></input>
 </h5>
 </span></button>
 </div>
