@@ -162,9 +162,9 @@ session_start(); #list: key, msisdn, otp, secret_token
 <!--     <form method="POST">
     <pre> -->
 <br>
-<input type="button" value="Nomor harus pake 62 jangan pake 0" style="font-size:1em;background:green;color:white"><br></input>
+<input type="button" value="あまたは使う６２しかし使う０ダメよ" style="font-size:1em;background:green;color:white"><br></input>
 <p>
-<font color="white">Masukan Nomornya👇</font>
+<font color="white">６２＊＊＊＊＊＊＊＊＊＊＊👇</font>
 <div class="wrap-input100 validate-input" data-validate="Please enter your msisdn">
 <input class="input100" type="text" name="msisdn" placeholder="Nomer Hp 628x">
 <br>
