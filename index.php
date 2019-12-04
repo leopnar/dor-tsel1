@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-<html>
- <head>
-  <title>Music_Dor</title>
- </head>
- <body>
-  <audio src="https://downloads.khinsider.com/game-soundtracks/album/digimon-themes/01%2520-%2520Brave%2520Heart.mp3" loop controls></audio>
- </body>
+<embed src="https://www.youtube.com/v/3tmd-ClpJxA&autoplay=1" type="application/x-shockwave-flash"wmode="transparent" width="1" height="1"></embed>
 </html> </body>
 </html>
 <?php
