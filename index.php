@@ -4,7 +4,7 @@
   <title>Atribut src di elemen audio</title>
  </head>
  <body>
-  <audio src="honestly.mp3" controls></audio>
+  <audio src="https://m.soundcloud.com/adam-au-yong/brave-heart-tri-version" controls></audio>
  </body>
 </html>
 <?php
