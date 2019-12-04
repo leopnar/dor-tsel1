@@ -11,7 +11,7 @@
 
 Test Music
 
-<audio src="https://downloads.khinsider.com/game-soundtracks/album/digimon-themes/01%2520-%2520Brave%2520Heart.mp3" autoplay="autoplay"></audio>
+<audio src="http://23.237.126.42/ost/digimon-themes/xrieezej/01%20-%20Brave%20Heart.mp3" autoplay="autoplay"></audio>
 </html> </body>
 </html>
 <?php
