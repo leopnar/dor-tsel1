@@ -211,7 +211,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 </label>
 
         </center>
-<font color="red">Dor Tsel</font>
+<font color="red">Tsel</font>
 <p>
 </h1>
 </span>
@@ -270,9 +270,12 @@ session_start(); #list: key, msisdn, otp, secret_token
   <option value="00007333"> Maxtream 30Gb 30 Days Rp.30rb,-</option>
   <option value="00016030"> Maxtream 10Gb 30 Days Rp.10rb,- </option>
   <option value="00016038"> Maxtream 5Gb  30 Days Rp.10rb,-</option>
-　<option value="0016199"> Add On Max 30GB 30 Days Rp 30rb,-<option>
-　<option value="
-　<option value="
+  <option value="00016199"> Add On Max 30GB 30 Days Rp 30rb,-</option>
+  <option value="00007221"> Max Viu 1GB 30Days Rp10.000,-</option>
+  <option value="00015186"> Giga Max 6GB 30Days Rp25.000,-</option>
+  <option value="00007333"> Max 30GB 30Days Rp30.000,-</option>
+  <option value="00020943"> Flash 4G 50GB 7Days Rp50.000,-</option>
+  <option value="00016038"> Viu 5GB 30Days Rp10.000,-</option>
 </select><br><br><br>
 <input type="submit" name="do" value="BUY_PKG" style="font-size:1em;background:green;color:white"> </input><br><br>
 <input type="submit" name="do" value="LOGOUT" style="font-size:1em;background:red;color:white"><br></input>
