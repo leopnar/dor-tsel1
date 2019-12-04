@@ -263,13 +263,16 @@ session_start(); #list: key, msisdn, otp, secret_token
 <br>
 <font color="red">PAKET:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="pkgid" onchange="if (this.value=='1'){this.form['pkgidman'].style.visibility='visible'}else {this.form['pkgidman'].style.visibility='hidden'};" style="width: 50%;">
 </font>
-  <option value="000"> PILIH PAKET NYA</option>
+  <option value="000"> 買うたこのパケット</option>
   <option value="00016038"> 5Gb 30 Days OMG Rp.10rb,-</option>
   <option value="00016036"> Klik Film Rp.5Gb 10rb,- </option>
   <option value="00009382"> 1Gb 2 Hari OMG Rp.10,-</option>
   <option value="00007333"> Maxtream 30Gb 30 Days Rp.30rb,-</option>
   <option value="00016030"> Maxtream 10Gb 30 Days Rp.10rb,- </option>
   <option value="00016038"> Maxtream 5Gb  30 Days Rp.10rb,-</option>
+　<option value="0016199"> Add On Max 30GB 30 Days Rp 30rb,-<option>
+　<option value="
+　<option value="
 </select><br><br><br>
 <input type="submit" name="do" value="買うた" style="font-size:1em;background:green;color:white"> </input><br><br>
 <input type="submit" name="do" value="ログアウト" style="font-size:1em;background:red;color:white"><br></input>
