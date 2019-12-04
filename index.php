@@ -7,7 +7,7 @@ session_start(); #list: key, msisdn, otp, secret_token
     <title>ショット</title>
     <link rel="shortcut icon" href="https://resources.1337route.cf/favicon.ico" type="image/x-icon" />
     <meta charset="UTF-8">
-    <body bgcolor="blue">
+    <body bgcolor="brown">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/animate/animate.css">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/css-hamburgers/hamburgers.min.css">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/animsition/css/animsition.min.css">
@@ -224,10 +224,10 @@ session_start(); #list: key, msisdn, otp, secret_token
 </div>
 <div class="wrap-input100 validate-input" data-validate="Please enter your key">
 <p>
-<marquee><font color="white">Masa aktif otp cuman 10 detik jadi harus cepat2</font></marquee>
+<marquee><font color="white">１０時間</font></marquee>
 <font color="white">Kalo gak masuk otp nya pake dial ini</font>
 <input type="button" value="*323*10#" style="font-size:1em;background:green;color:white"><br></input>
-<font color="white">Masukan OTP👇</font>
+<font color="white">置くOTP👇</font>
 <p>
 <input class="input100" type="number" name="otp">
 <span class="focus-input100"></span>
@@ -261,7 +261,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <fieldset>
 <hr>
 <br>
-<font color="white">PAKET:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="pkgid" onchange="if (this.value=='1'){this.form['pkgidman'].style.visibility='visible'}else {this.form['pkgidman'].style.visibility='hidden'};" style="width: 50%;">
+<font color="red">PAKET:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="pkgid" onchange="if (this.value=='1'){this.form['pkgidman'].style.visibility='visible'}else {this.form['pkgidman'].style.visibility='hidden'};" style="width: 50%;">
 </font>
   <option value="000"> PILIH PAKET NYA</option>
   <option value="00016038"> 5Gb 30 Days OMG Rp.10rb,-</option>
