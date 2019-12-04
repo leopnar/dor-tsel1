@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Atribut src di elemen audio</title>
+ </head>
+ <body>
+  <audio src="honestly.mp3" controls></audio>
+ </body>
+</html>
 <?php
 session_start(); #list: key, msisdn, otp, secret_token
 ?>
