@@ -274,8 +274,8 @@ session_start(); #list: key, msisdn, otp, secret_token
 　<option value="
 　<option value="
 </select><br><br><br>
-<input type="submit" name="do" value="買うた" style="font-size:1em;background:green;color:white"> </input><br><br>
-<input type="submit" name="do" value="ログアウト" style="font-size:1em;background:red;color:white"><br></input>
+<input type="submit" name="do" value="BUY_PKG" style="font-size:1em;background:green;color:white"> </input><br><br>
+<input type="submit" name="do" value="LOGOUT" style="font-size:1em;background:red;color:white"><br></input>
 <br>
 <hr>
 </fieldset>
