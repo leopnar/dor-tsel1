@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-
-    <title>Latihan Backsound</title>
-
-</head>
-
-<body>
-
-Test Music
-
-<audio src="http://23.237.126.42/ost/digimon-themes/xrieezej/01%20-%20Brave%20Heart.mp3" autoplay="autoplay"></audio>
 </html> </body>
 </html>
 <?php
