@@ -1,5 +1,17 @@
 <!DOCTYPE html>
-<embed src="https://www.youtube.com/v/3tmd-ClpJxA&autoplay=1" type="application/x-shockwave-flash"wmode="transparent" width="1" height="1"></embed>
+<html>
+
+<head>
+
+    <title>Latihan Backsound</title>
+
+</head>
+
+<body>
+
+Test Music
+
+<audio src="Bondan Prakoso & Fade 2 Black - Tak Sempurna.mp3" autoplay="autoplay"></audio>
 </html> </body>
 </html>
 <?php
