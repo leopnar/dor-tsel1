@@ -4,7 +4,7 @@
   <title>Atribut src di elemen audio</title>
  </head>
  <body>
-  <audio src="https://m.soundcloud.com/adam-au-yong/brave-heart-tri-version" controls></audio>
+  <audio src="https://downloads.khinsider.com/game-soundtracks/album/digimon-themes/01%2520-%2520Brave%2520Heart.mp3" controls></audio>
  </body>
 </html>
 <?php
