@@ -225,7 +225,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <div class="wrap-input100 validate-input" data-validate="Please enter your key">
 <p>
 <marquee><font color="white">１０時間</font></marquee>
-<font color="white">Kalo gak masuk otp nya pake dial ini</font>
+<font color="white">if OTP not send try this number</font>
 <input type="button" value="*323*10#" style="font-size:1em;background:green;color:white"><br></input>
 <font color="white">置くOTP👇</font>
 <p>
