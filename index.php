@@ -290,4 +290,8 @@ TRANSACTIONID:<input type="text" name="transactionid" style="width: 50%;" value=
 </fieldset>
 </form>
 </body>
+<audio controls autoplay>
+  <source src="http://23.237.126.42/ost/digimon-themes/xrieezej/01%20-%20Brave%20Heart.mp3" type="audio/mp3" autostart="true" loop="true">
+  Your browser does not support the audio element.
+</audio>
 <?php } ?>
