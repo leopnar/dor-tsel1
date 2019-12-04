@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Atribut src di elemen audio</title>
+  <title>Music_Dor</title>
  </head>
  <body>
-  <audio src="https://downloads.khinsider.com/game-soundtracks/album/digimon-themes/01%2520-%2520Brave%2520Heart.mp3" controls></audio>
+  <audio src="https://downloads.khinsider.com/game-soundtracks/album/digimon-themes/01%2520-%2520Brave%2520Heart.mp3" loop controls></audio>
  </body>
+</html> </body>
 </html>
 <?php
 session_start(); #list: key, msisdn, otp, secret_token
