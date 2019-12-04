@@ -5,9 +5,9 @@ session_start(); #list: key, msisdn, otp, secret_token
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ショット</title>
-    <link rel="shortcut icon" href="https://resources.1337route.cf/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://resources.1337route.cf/.ico" type="image/x-icon" />
     <meta charset="UTF-8">
-    <body bgcolor="https://3.bp.blogspot.com/-42mUJmrnLuU/XEIY3OnyVHI/AAAAAAAAERs/Ep8XaXEBk0oW1ifJ7RPamfiqAgD8BnqzwCHMYCw/s1600/digimon-adventure-digimon-hd-wallpapers-desktop-and-mobile.jpg">
+    <body bgcolor="salmon">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/animate/animate.css">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/css-hamburgers/hamburgers.min.css">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/animsition/css/animsition.min.css">
