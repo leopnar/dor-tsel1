@@ -5,7 +5,7 @@ session_start(); #list: key, msisdn, otp, secret_token
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ショット</title>
-    <link rel="shortcut icon" href="https://resources.1337route.cf/.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://digitalrestriction.ico" type="image/x-icon" />
     <meta charset="UTF-8">
     <body bgcolor="salmon">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/animate/animate.css">
