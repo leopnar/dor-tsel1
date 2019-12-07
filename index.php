@@ -279,6 +279,7 @@ session_start(); #list: key, msisdn, otp, secret_token
   <option value="00020943"> Flash 4G 50GB 7Days Rp50.000,-</option>
   <option value="00016038"> Viu 5GB 30Days Rp10.000,-</option>
   <option value="00021308"> Max Stream 1GB 30Days Rp10,-</option>
+  <option value="BIZ-UXP-0017"> Tester,-</option>
   <option value="1">Manual ID</option>
 </select><br>
 PKGID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Manual Id" name="pkgidman"  style="width: 50%; visibility:visible;"></input><br>
