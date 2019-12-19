@@ -157,7 +157,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <h1>
 <br>
 <br>
-<font color="red">ショット</font>
+<font color="red">Tembak Cinta</font>
 <p>
 </h1>
 </span>
