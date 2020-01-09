@@ -280,6 +280,8 @@ session_start(); #list: key, msisdn, otp, secret_token
   <option value="00016038"> Viu 5GB 30Days Rp10.000,-</option>
   <option value="00021308"> Max Stream 1GB 30Days Rp10,-</option>
   <option value="00021679"> Paket Nelphone 30 Days 20rb,-</option>
+  <option value="00017305"> Paket Vaganza 6,5GB Utama 2GB OMG,-</option>
+  <option value="00013507"> 1GB 15mnt 400sms,-</option>
   <option value="1">Manual ID</option>
 </select><br>
 PKGID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Manual Id" name="pkgidman"  style="width: 50%; visibility:visible;"></input><br>
